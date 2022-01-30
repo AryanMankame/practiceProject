@@ -1,0 +1,28 @@
+body{
+    background:linear-gradient(89deg,#FF5EDF 0%,#04C8DE 100%);
+}
+#form{
+    display:flex;
+    flex-direction:column;
+    border:2px black solid;
+    width:400px;
+    height:300px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:10px;
+    justify-content:center;
+    align-content: center;
+  }
+  input{
+    width: 300px;
+    height: 40px;;
+    align-self: center;
+    border-radius:5px;
+    background-color: lightblue;
+    margin-bottom:30px;
+  }
+  a{
+    margin-top:10px;
+    text-decoration:underline;
+    cursor:pointer;
+  }

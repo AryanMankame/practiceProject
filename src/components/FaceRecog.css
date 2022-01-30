@@ -1,0 +1,12 @@
+.img-set{
+    height: 40vh;;
+    width: 60vw;
+    z-index: -1;
+}
+.bounding-box{
+    position: absolute;
+    border:solid blue 4px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
